@@ -33,7 +33,7 @@ namespace DesignPatterns
             
             //new MediatorDemo().Run();
             
-            new ObserverDemo().Run();
+            //new ObserverDemo().Run();
         }
     }
 }
